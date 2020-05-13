@@ -1,6 +1,10 @@
 body{
     width: 70%;
     margin: auto;
+    background-color: aliceblue;
+    font-family: Calibri, 'Gill Sans', 'Gill Sans MT',  'Trebuchet MS', sans-serif;
+    font-size: 1.1rem;
+    text-align: justify;
 }
 a{
     text-decoration: none;
